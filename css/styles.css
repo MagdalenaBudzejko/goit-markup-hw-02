@@ -1,8 +1,3 @@
-body {
-  font-family: "Roboto", "Raleway", sans-serif;
-  background-color: #ffffff;
-  color: #212121;
-}
 :root {
   --logo1-color: #2196f3;
   --logo2-color: #000000;
@@ -13,6 +8,11 @@ body {
   --footer-link-color: rgba(255, 255, 255, 0.6);
   --contrast-text-color: #ffffff;
   --minor-text-color: #757575;
+}
+body {
+  font-family: "Roboto", "Raleway", sans-serif;
+  background-color: #ffffff;
+  color: #212121;
 }
 .link {
   text-decoration: none;
