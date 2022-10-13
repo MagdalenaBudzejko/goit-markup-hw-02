@@ -183,12 +183,18 @@ body {
   letter-spacing: 1.71;
   list-style-type: none;
 }
+.main-footer-address:hover {
+  color: var(--hover-focus-color);
+}
+.main-footer-address:focus {
+  color: var(--hover-focus-color);
+}
 .main-footer-item {
   color: var(--footer-link-color);
 }
 .main-footer-item:hover {
-  color: var(--footer-link-color);
+  color: var(--hover-focus-color);
 }
 .main-footer-item:focus {
-  color: var(--footer-link-color);
+  color: var(--hover-focus-color);
 }
